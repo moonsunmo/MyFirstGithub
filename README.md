@@ -4,3 +4,4 @@
  * 애니메이션
  * **인생**...[갓뎀](https://youtu.be/DCTy8iTFito)...:alien:
  * [나 자신을 위한 마크다운 사용법... 잘쓰렴 혜원아](https://guides.github.com/features/mastering-markdown/)
+ * 올해 지나면 졸업...
